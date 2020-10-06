@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**seisman/seisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dongdong, a postdoc of Geophysics.
 
-Here are some ideas to get you started:
+[![seisman's github stats](https://github-readme-stats.vercel.app/api?username=seisman&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Open Source Software
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seisman&repo=HinetPy&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/seisman/HinetPy)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GenericMappingTools&repo=gmt&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/GenericMappingTools/gmt)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GenericMappingTools&repo=pygmt&show_icons=true&theme=solarized-dark&hide_border=true&show_owner=true)](https://github.com/GenericMappingTools/pygmt)
+
